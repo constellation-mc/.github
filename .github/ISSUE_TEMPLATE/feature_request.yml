@@ -1,6 +1,5 @@
 name: Feature Request | ✨
 description: Request something to be implemented.
-title: "[Request]: "
 labels: ["enhancement"]
 projects: ["constellation-mc/2"]
 body:
