@@ -1,11 +1,14 @@
 ![banner_thin](https://github.com/constellation-mc/.github/assets/104443436/c34b7e56-68e2-4ea3-b275-12b352a7bef6)
 
-[![](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/organization/constellation) 
-[![](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/supported/fabric_vector.svg)](https://fabricmc.net/)
+[![Available on Modrinth!](https://raw.githubusercontent.com/melontini/mini-badges/main/minecraft/modrinth.svg)](https://modrinth.com/organization/constellation)
+[![Contribute on GitHub!](https://raw.githubusercontent.com/melontini/mini-badges/main/vcs/contribute-on-github.svg)](https://github.com/orgs/constellation-mc/projects/2)
+
+> [!WARNING]
+> The org is inactive and will remain so for the foreseeable future.
+>
+> We'll continue to review PRs and push updates as necessary, but no fixes will come from us.
 
 ***
-
-[<img alt="Devin's Badges" src="https://github.com/images/mona-whisper.gif" width=100>](https://github.com/intergrav/devins-badges)
 
 <!--
 
