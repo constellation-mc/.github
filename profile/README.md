@@ -4,9 +4,9 @@
 [![Contribute on GitHub!](https://raw.githubusercontent.com/melontini/mini-badges/main/vcs/contribute-on-github.svg)](https://github.com/orgs/constellation-mc/projects/2)
 
 > [!WARNING]
-> The org is inactive and will remain so for the foreseeable future.
+> The org has been archived and will no longer maintain any of its projects.
 >
-> We'll continue to review PRs and push updates as necessary, but no fixes will come from us.
+> Thank you for your continued trust!
 
 ***
 
