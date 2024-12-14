@@ -1,15 +1,9 @@
-![constellation banner](https://github.com/user-attachments/assets/6ef3d512-9874-4786-97a3-520ca168dcb1)
+![constellation banner](https://github.com/user-attachments/assets/55efaba3-1627-4268-ae0c-343b2c1e4d9e)
+
+[![Available on Modrinth!](https://raw.githubusercontent.com/melontini/mini-badges/v1/minecraft/modrinth/available.svg)](https://modrinth.com/organization/constellation)
+[![Contribute on GitHub!](https://raw.githubusercontent.com/melontini/mini-badges/v1/vcs/github/contribute.svg)](https://github.com/orgs/constellation-mc/projects/2)
 
 
-[![Available on Modrinth!](https://raw.githubusercontent.com/melontini/mini-badges/main/minecraft/modrinth.svg)](https://modrinth.com/organization/constellation)
-[![Contribute on GitHub!](https://raw.githubusercontent.com/melontini/mini-badges/main/vcs/contribute-on-github.svg)](https://github.com/orgs/constellation-mc/projects/2)
-
-> [!WARNING]
-> The org has been archived and will no longer maintain any of its projects.
->
-> Thank you for your continued trust!
-
-***
 
 <!--
 
